@@ -1,2 +1,2 @@
 # Web-Practice
-- Practicing my skill in html, css and Js. 
+- Practicing my skill in html and css  
